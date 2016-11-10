@@ -7,7 +7,7 @@ library(plotly)
 # Try parameterize a few options, such as the title
 # I suggest: https://plot.ly/r/bubble-maps/
 BuildMap <- function(data) {
-  
+  paste0("THis sucks")
   
   
 
